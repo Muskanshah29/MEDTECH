@@ -1,0 +1,9 @@
+npm i @react-navigation/native-stack
+npm i react-native-vector-icons
+npm i react-native-keyboard-aware-scroll-view 
+npm i react-native-paper
+npm i axios
+npm i react-native-sqlite-storage
+npm i toggle-switch-react-native
+npm i @react-navigation/bottom-tabs
+npm install react-native-screens react-native-safe-area-context
